@@ -15,9 +15,8 @@ background-size: cover;
 
 st.markdown(bg,unsafe_allow_html=True)
 
-st.title('streamlit beautification')
-st.header('By sk')
-st.subheader('kanye')
+st.title('You were rickrolled by saurish')
+st.header('cry about it lol')
 
 #uploading the images
 img1 = st.file_uploader('/Users/admin/Desktop/Screenshots/tiger copy.jpg')
